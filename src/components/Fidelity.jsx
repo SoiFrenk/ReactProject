@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Clienti from './components/Clienti';
+import Clienti from './Clienti';
 
 export default class Fidelity extends Component{
     state = {
